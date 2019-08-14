@@ -1,5 +1,5 @@
 # archive-dir
-A simple Python script to compress, encrypt and archive infrequently used directories on Linux and Windows
+A simple Python script to archive and restore directories on Linux and Windows
 
 ## Dependencies
 
