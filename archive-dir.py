@@ -16,7 +16,7 @@ config_path = data_path / "config.ini"
 
 
 class DirectoryToArchive:
-	"""Represents a directory to archive, and provides funtions to operate on this directory"""
+    """Represents a directory to archive, and provides funtions to operate on this directory"""
     
     def __init__(self, path: Path, archive_base_path: Path):
 		# directory to archive
